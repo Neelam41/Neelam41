@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neelam Bora
 - 👀 I’m interested in Web Development and Java Programming.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning AWS DevOps.
 - 💞️ I’m looking to collaborate on Industrial projects and work as an intern.
 - 📫 How to reach me -Linkdin(https://www.linkedin.com/in/neelam-bora)
 
